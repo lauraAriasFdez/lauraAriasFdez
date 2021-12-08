@@ -16,7 +16,8 @@ My University github: https://github.umn.edu/arias048
 
 
 
-
+<a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
+  <img align="left" src="https://github.com/lauraAriasFdez/lauraAriasFdez/blob/main/linkedin.png" alt="LinkedIn" width="21px"/>                                                   </a>
 
 
 <!--
