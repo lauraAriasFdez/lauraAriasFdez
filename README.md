@@ -13,7 +13,6 @@
 
 My University github: https://github.umn.edu/arias048
 
-<hr>
 
 🤝 Connect with me
 
