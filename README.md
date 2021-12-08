@@ -9,6 +9,8 @@
 - 📚 My experience includes being a teaching assistant for a computer science class, and a research assistant focus on developing an app to help visually impaired individuals get document information through a speech based interface.
 
 - 💻 As for my future, I hope to one day work in a role that allows me to use technology to bring benefits big and small to all aspects of society
+
+- My University github: https://github.umn.edu/arias048
 <!--
 📫 How to reach me ...
 --!>
