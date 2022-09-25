@@ -2,7 +2,7 @@
 # Laura Arias Fernandez
  [//]: <> (REFERENCES https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md)
 
-<table>
+<table border-collapse="collapse">
 <tr>
   <td width="25%" text-align="center">
     <img display="block" width="100" height="100" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
@@ -60,7 +60,7 @@
 <br>
 
 ## 📘 My top open source projects
-<table>
+<table border-collapse="collapse">
 <tr>
   <td><a href="https://github.com/lauraAriasFdez/barcodeDetector"><img width="278" margin-bottom="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=lauraAriasFdez&repo=barcodeDetector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></td>
 
