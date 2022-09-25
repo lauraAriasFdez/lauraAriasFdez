@@ -1,43 +1,80 @@
 
-<img align="right" width="100" height="100" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">
+# Laura Arias Fernandez
+ [//]: <> (REFERENCES https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md)
 
-👋  Hi, my name is Laura
+<table>
+<tr>
+  <td width="25%" text-align="center">
+    <img display="block" width="100" height="100" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
+    <br>
+    <a href="https://www.kaggle.com/lauraariasfernndez">
+            <img align="left"alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+    <a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
+            <img align="left" alt="linkedin" title="My linkedin"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+    <a href="mailto:larfer2001@gmail.com">
+            <img align="left"  alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
+  </td>
 
-🎓 Bachelor's of Science in Computer Science from the University of Minnesota. (May 2023)
+  <td width="75%">
+    <div>
+    <p>🎓 Bachelor's of Science in Computer Science from the University of Minnesota. (May 2023)</p>
+    <p>🌇 Self-driven student with a passion for using artificial intelligence and data science to solve real world problems</p>
+    <p>📚 My experience includes being an intern at Goldman Sachs as a technology analyst, a teaching assistant for a computer science class, and a research assistant focus on developing an app to help visually impaired individuals grocery shop. </p>
+    <p>💻 As for my future, I hope to one day work in a role that allows me to use technology to bring benefits big and small to all aspects of society</p>
+    </div>
+  </td>
+</tr>
+</table>
 
-🌇 Self-driven student with a passion for using artificial intelligence and data science to solve real world problems
+<br>
 
-📚 My experience includes being a teaching assistant for a computer science class, and a research assistant focus on developing an app to help visually impaired individuals get document information through a speech based interface.
+## 🛠️ My Machine Learning tools 
+ [//]: <> (ICONS https://devicon.dev/)
 
-💻 As for my future, I hope to one day work in a role that allows me to use technology to bring benefits big and small to all aspects of society
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
 
-My University github: https://github.umn.edu/arias048
-
-
-🤝 Connect with me
-
-<a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
-    <img align="left" src="https://github.com/lauraAriasFdez/lauraAriasFdez/blob/main/linkedin.png" alt="LinkedIn" width="21px"/>                                                   </a>
-
-  <a href="mailto:larfer2001@gmail.com">
-    <img align="left" src="https://github.com/lauraAriasFdez/lauraAriasFdez/blob/main/email.png" alt="Email" width="25px"/>                                                   
-  </a>
-  
-<!--
-📫 How to reach me ...
-
-![til](https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif)
-![til](https://media.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif)
-![til](https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif)
-https://media.giphy.com/media/jdPMeyv9rn0hZHh8n9/giphy.gif
-https://media.giphy.com/media/4XXo8A7CIW1lZGgdhm/giphy.gif
-https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif
-https://media.giphy.com/media/hB3CsPc5aAMC4xEKE0/giphy.gif
-✨✨✨✨
---!>
-
+<img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" />
 
 
+<img align="left" alt="Tensorflow" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+
+<img align="left" alt="pytorch" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" />
+
+<img align="left" alt="jupyterNotebook" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+
+<img alt="amazonWebService" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
+
+<br>
+
+## 💻 Software and tools
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+
+<img align="left" alt="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+
+<img align="left" alt="nodeJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+
+<br>
+<br>
+<br>
+
+## 📘 My top open source projects
+<table>
+<tr>
+  <td><a href="https://github.com/lauraAriasFdez/barcodeDetector"><img width="278" margin-bottom="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=lauraAriasFdez&repo=barcodeDetector&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></td>
+
+  <td><a href="https://github.com/lauraAriasFdez/k-means-img-clustering"><img width="278" margin-bottom="50px" src="https://github-readme-stats.vercel.app/api/pin/?username=lauraAriasFdez&repo=k-means-img-clustering&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></td>
+
+</tr>
+
+<tr>
+  <td><a href="https://github.com/lauraAriasFdez/Ciphers"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=lauraAriasFdez&repo=Ciphers&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></td>
+
+  <td><a href="https://github.com/lauraAriasFdez/SentimentAnalysis"><img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=lauraAriasFdez&repo=SentimentAnalysis&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="github-readme-streak-stats"></a></td>
+</tr>
+
+</table>
 
 
 
