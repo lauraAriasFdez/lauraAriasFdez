@@ -2,7 +2,7 @@
  [//]: <> (REFERENCES https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md)
 
 <div class="container" style="display:flex; flex-direction:row;flex-wrap:wrap;">
-  <div style="width: 20%; min-width:120px;">
+  <div style="width: 20%; min-width:100px;">
     <img style="display:block;width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
     <div class="container" style="display:flex; flex-direction:row;padding-bottom:50px;">
       <a href="https://www.kaggle.com/lauraariasfernndez">
