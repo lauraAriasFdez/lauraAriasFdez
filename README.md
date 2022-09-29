@@ -3,7 +3,7 @@
 
 <div class="container" style="display:flex; flex-direction:row;flex-wrap:wrap;">
   <div style="width: 20%; min-width:80px;">
-    <img style="display:block;width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
+    <img style="width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
     <div class="container" style="display:flex; flex-direction:row;padding-bottom:50px;">
       <a href="https://www.kaggle.com/lauraariasfernndez">
               <img align="left"alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
