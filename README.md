@@ -1,30 +1,26 @@
-
 # Laura Arias Fernandez
  [//]: <> (REFERENCES https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md)
 
-<table border-collapse="collapse">
-<tr>
-  <td width="25%" text-align="center">
-    <img display="block" width="100" height="100" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
-    <br>
-    <a href="https://www.kaggle.com/lauraariasfernndez">
-            <img align="left"alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
-    <a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
-            <img align="left" alt="linkedin" title="My linkedin"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-    <a href="mailto:larfer2001@gmail.com">
-            <img align="left"  alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
-  </td>
-
-  <td width="75%">
-    <div>
+<div class="container" style="display:flex; flex-direction:row;flex-wrap:wrap;">
+  <div style="width: 20%; min-width:120px;">
+    <img style="display:block;width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
+    <div class="container" style="display:flex; flex-direction:row;padding-bottom:50px;">
+      <a href="https://www.kaggle.com/lauraariasfernndez">
+              <img align="left"alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+      <a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
+              <img align="left" alt="linkedin" title="My linkedin"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+      <a href="mailto:larfer2001@gmail.com">
+              <img align="left"  alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
+      </div>
+  </div>
+<div style="width: 80%">
     <p>🎓 Bachelor's of Science in Computer Science from the University of Minnesota. (May 2023)</p>
     <p>🌇 Self-driven student with a passion for using artificial intelligence and data science to solve real world problems</p>
     <p>📚 My experience includes being an intern at Goldman Sachs as a technology analyst, a teaching assistant for a computer science class, and a research assistant focus on developing an app to help visually impaired individuals grocery shop. </p>
     <p>💻 As for my future, I hope to one day work in a role that allows me to use technology to bring benefits big and small to all aspects of society</p>
-    </div>
-  </td>
-</tr>
-</table>
+  </div>
+    
+</div>
 
 <br>
 
