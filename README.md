@@ -6,11 +6,11 @@
     <img style="width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
     <div class="container" style="display:flex; flex-direction:row;padding-bottom:50px;">
       <a href="https://www.kaggle.com/lauraariasfernndez">
-              <img align="left"alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
+              <img alt="kaggle" title="Visit my Kaggle"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" /></a>
       <a href="https://www.linkedin.com/in/laura-arias-fernandez-61b121191/">
-              <img align="left" alt="linkedin" title="My linkedin"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
+              <img  alt="linkedin" title="My linkedin"  width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
       <a href="mailto:larfer2001@gmail.com">
-              <img align="left"  alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
+              <img alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
       </div>
   </div>
 <div>
