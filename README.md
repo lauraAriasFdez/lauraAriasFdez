@@ -1,8 +1,8 @@
 # Laura Arias Fernandez
  [//]: <> (REFERENCES https://github.com/DenverCoder1/DenverCoder1/blob/main/README.md)
 
-<div class="container" style="display:flex; flex-direction:row;flex-wrap:wrap;">
-  <div style="width: 20%; min-width:80px;">
+<div class="container">
+  <div style="min-width:80px;">
     <img style="width:100px" src="https://media.giphy.com/media/na5kHvSAGyR30kVXqZ/giphy.gif">  
     <div class="container" style="display:flex; flex-direction:row;padding-bottom:50px;">
       <a href="https://www.kaggle.com/lauraariasfernndez">
@@ -13,7 +13,7 @@
               <img align="left"  alt="email" title="Email me"  width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/768px-Gmail_icon_%282020%29.svg.png?20201210105308" /></a>
       </div>
   </div>
-<div style="width: 80%">
+<div>
     <p>🎓 Bachelor's of Science in Computer Science from the University of Minnesota. (May 2023)</p>
     <p>🌇 Self-driven student with a passion for using artificial intelligence and data science to solve real world problems</p>
     <p>📚 My experience includes being an intern at Goldman Sachs as a technology analyst, a teaching assistant for a computer science class, and a research assistant focus on developing an app to help visually impaired individuals grocery shop. </p>
